@@ -67,6 +67,12 @@ The spatial vector data representing grouped buildings are modeled as graphs, an
 
 (4)介绍了图傅里叶变换(卷积核)Graph Fourier transform
 
+![](Snipaste_2019-09-22_19-37-06.jpg)
+
+(5)基于图形结构化数据的卷积神经网络数据库架构
+
+![](Snipaste_2019-09-22_19-37-28.jpg)
+
 
 
 
