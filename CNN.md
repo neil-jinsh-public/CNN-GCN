@@ -23,3 +23,5 @@
 
 - ##### [(Mask RCNN)——论文详解(真的很详细)](https://blog.csdn.net/wangdongwei0/article/details/83110305)
 
+- ##### [Tensorflow笔记（一）之基础知识(后续详细解释MNIST识别)](https://www.cnblogs.com/fydeblog/p/7399701.html)
+
