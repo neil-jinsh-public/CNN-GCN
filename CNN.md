@@ -25,3 +25,7 @@
 
 - ##### [Tensorflow笔记（一）之基础知识(后续详细解释MNIST识别)](https://www.cnblogs.com/fydeblog/p/7399701.html)
 
+- ##### [动手设计实现一个深度学习框架](https://borgwang.github.io/dl/2019/08/18/tinynn.html)
+
+- ##### [图神经网络（Graph Neural Networks，GNN）综述](https://zhuanlan.zhihu.com/p/75307407)
+
