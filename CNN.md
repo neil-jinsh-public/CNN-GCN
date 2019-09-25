@@ -29,3 +29,7 @@
 
 - ##### [图神经网络（Graph Neural Networks，GNN）综述](https://zhuanlan.zhihu.com/p/75307407)
 
+- ##### [【深度学习】一文读懂机器学习常用损失函数（Loss Function）](https://www.cnblogs.com/guoyaohua/p/9217206.html)
+
+- ##### [深入浅出的讲解傅里叶变换（真正的通俗易懂）](https://www.cnblogs.com/h2zZhou/p/8405717.html)
+
