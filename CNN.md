@@ -33,3 +33,15 @@
 
 - ##### [深入浅出的讲解傅里叶变换（真正的通俗易懂）](https://www.cnblogs.com/h2zZhou/p/8405717.html)
 
+- ##### [对深度可分离卷积、分组卷积、扩张卷积、转置卷积（反卷积）的理解](https://blog.csdn.net/chaolei3/article/details/79374563)
+
+- ##### [图像语义分割（3）- Dilated Convolutions](https://blog.csdn.net/zizi7/article/details/77369945)
+
+- ##### [A technical report on convolution arithmetic in the context of deep learning](https://github.com/vdumoulin/conv_arithmetic)
+
+- ##### [图(Graph)到图卷积(Graph Convolution)：漫谈图神经网络模型 (一)](https://www.cnblogs.com/SivilTaram/p/graph_neural_network_1.html)
+
+- ##### [卷积神经网络（CNN）中的卷积核 概念 原理](https://blog.csdn.net/lmb09122508/article/details/84949837)
+
+- ##### [图卷积网络 GCN Graph Convolutional Network（谱域GCN）的理解和详细推导](https://blog.csdn.net/yyl424525/article/details/100058264#_66)
+
