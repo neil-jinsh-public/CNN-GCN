@@ -68,7 +68,9 @@ we  are  most  interested  in  multilevel  clustering  algorithms where  each  l
 
 ##### **研究数据：实验中用到的数据，如何使用**
 
- 
+ 文中进行了两个实验：一个是经典的MNIST识别手写数字实验，另一个是20NEWS文本类型分类实验。
+
+
 
 ##### **结果分析：有哪些分析？递进实验还是并行实验？分析结果简单总结**
 
@@ -76,6 +78,6 @@ we  are  most  interested  in  multilevel  clustering  algorithms where  each  l
 
 #####  **讨论点：从哪些方面进行讨论？**
 
- 
 
-##### **研究缺陷/展望：作者总结的缺陷有哪些？阅读文献后总结的缺点是否与作者相同？基于这个研究我们可以扩展哪些研究？**
+
+ **研究缺陷/展望：作者总结的缺陷有哪些？阅读文献后总结的缺点是否与作者相同？基于这个研究我们可以扩展哪些研究？**
