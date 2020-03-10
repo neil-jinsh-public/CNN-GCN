@@ -45,3 +45,11 @@
 
 - ##### [图卷积网络 GCN Graph Convolutional Network（谱域GCN）的理解和详细推导](https://blog.csdn.net/yyl424525/article/details/100058264#_66)
 
+- ##### [深度学习](https://www.csdn.net/gather_2c/MtTaggysNjA0NS1ibG9n.html)
+
+- ##### [深度学习 | 绪论](https://blog.csdn.net/NGUever15/article/details/89455808)
+
+- ##### [深度学习中Dropout原理解析](https://blog.csdn.net/program_developer/article/details/80737724)
+
+
+
